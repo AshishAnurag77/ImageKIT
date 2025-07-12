@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "yauzl": "^3.2.0"
+  }
+}
